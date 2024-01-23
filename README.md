@@ -40,6 +40,9 @@
   <img alt="Web Gif" src=".github/cached.gif" width="600px">
 </p>
 
+## Fork 
+Create Your Fork..🧑‍💻 [FORK]_(https://github.com/masterthenu1/WHATSAPP--Thenu-MD-/fork)
+
 ## :rocket: Info
 
 Your whatsapp becomes a music bot!. You can send music's to your friend's private conversation or in your gropus just sending `!play SONG_NAME` where SONG_NAME is the name of the song you are looking for!
