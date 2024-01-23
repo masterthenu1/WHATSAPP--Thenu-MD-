@@ -71,8 +71,7 @@ To clone this application you will need [Git](https://git-scm.com) + [Node.js v1
 
 ```bash
 # Clone this repo
-$ git clone https://github.com/mlg404/whatsapp-music-bot.git whatsapp-music-bot
-
+$ git clone https://github.com/masterthenu1/WHATSAPP--Thenu-MD-.git WHATSAPP--Thenu-MD
 # Access this repo
 $ cd whatsapp-music-bot
 
