@@ -73,12 +73,11 @@ https://user-images.githubusercontent.com/120257933/233465324-bfb1df96-51c4-4a02
 To clone this application you will need [Git](https://git-scm.com) + [Node.js v16][nodejs] or higher + [Yarn v1.22.4][yarn] or higher installed in your computer. Run in terminal:
 
 ```bash
-# Clone this repo
+# PLEASE DO STEP BY STEP
 $ git clone https://github.com/masterthenu1/WHATSAPP--Thenu-MD-.git WHATSAPP--Thenu-MD
-# Access this repo
+
 $ cd whatsapp-music-bot
 
-# Install dependencies with yarn
 $ yarn install
 
 # Run the application with yarn (or npm run dev)
