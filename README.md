@@ -41,7 +41,7 @@
 </p>
 
 ## Fork 
-Create Your Fork..🧑‍💻 [FORK]_(https://github.com/masterthenu1/WHATSAPP--Thenu-MD-/fork)
+Create Your Fork..🧑‍💻 [FORK](https://github.com/masterthenu1/WHATSAPP--Thenu-MD-/fork)
 
 ## :rocket: Info
 
