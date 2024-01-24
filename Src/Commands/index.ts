@@ -9,6 +9,6 @@ export default {
   [`${PREFIX}play`]: play,
   [`${PREFIX}help`]: help,
   [`${PREFIX}lyrics`]: lyrics,
-   [`${PREFIX}alexa`]: alexa,
+  [`${PREFIX}alexa`]: alexa,
 
 };
