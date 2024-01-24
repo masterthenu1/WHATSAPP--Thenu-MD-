@@ -114,6 +114,10 @@ See the current features!
 
 - New error handling
 - Redesigned music cache
+- Heroku Deploying🧑‍💻
+- lyrics🌟
+- google🚮
+- Ai chats
 
 ## :busts_in_silhouette: Contribute
 
@@ -128,12 +132,15 @@ We need some translations too! Look for `language.ts` file! **It's so easy!**
 
 ## :memo: License
 
-This project is under MIT license. See [LICENSE](https://github.com/mlg404/whatsapp-music-bot/blob/master/LICENSE) for more information.
+This project is under MIT license. See [LICENSE](
 
 ---
 
-Made with 💙 by THENULA 
+Made with 💙 THENULA 
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://classic.yarnpkg.com/lang/en/
 [vc]: https://code.visualstudio.com/
+
+## Owner 🧑‍💻🌟 
+Thenula Panapiti ..............
