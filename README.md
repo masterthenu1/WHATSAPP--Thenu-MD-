@@ -1,7 +1,7 @@
 # Welcome to THENU-MD
 
 <h1 align="center">
-  <img alt="Whatsapp music bot" title="Thenu-MD-Whatsapp music bot" src="https://i.ibb.co/6s998cC/IMG-20240122-WA0000.jpg" width="200px" />
+  <img alt="Whatsapp music bot" title="Thenu-MD-Whatsapp music bot" src="https://telegra.ph/file/75c46f81a28c74bf683bf.jpg" width="200px" />
 </h1>
 
 <h3 align="center">
