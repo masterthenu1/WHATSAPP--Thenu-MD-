@@ -45,7 +45,7 @@ Create Your Fork..🧑‍💻 [FORK](https://github.com/masterthenu1/WHATSAPP--T
 
 ## :rocket: Info
 
-Your whatsapp becomes a music bot!. You can send music's to your friend's private conversation or in your gropus just sending `!play SONG_NAME` where SONG_NAME is the name of the song you are looking for!
+Your whatsapp becomes a music bot!. You can send music's to your friend's private conversation or in your gropus just sending `.lyrics` `!lyrics` `!play SONG_NAME` where SONG_NAME is the name of the song you are looking for!
 
 <strong>WARNING:</strong> this bot is not hosted. You need to host it by yourself
 
